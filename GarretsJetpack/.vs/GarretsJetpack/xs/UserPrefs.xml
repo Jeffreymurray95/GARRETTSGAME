@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FC5CD45F-8286-DC06-4A87-1EB356DAA870}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerControl.cs">
+    <Files>
+      <File FileName="Assets/PlayerControl.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GarretsJetpack" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="PlayerControl.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="43780f1f-b683-4926-bb36-7e123846ab6d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
